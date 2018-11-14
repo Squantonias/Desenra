@@ -1,8 +1,8 @@
-from desenra import DSB
+from desenra import DB
 
 
 def main():
-    DSB.start()
+    DB.start()
 
 
 if __name__ == "__main__":
