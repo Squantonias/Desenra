@@ -14,5 +14,5 @@ setup(
         "console_scripts": [
             "desenra = desenra.__main__:main",
         ]
-}
+    }
 )

@@ -1,8 +1,8 @@
-from desenra import DB
+from desenra import Bot
 
 
 def main():
-    DB.start()
+    Bot.start()
 
 
 if __name__ == "__main__":
