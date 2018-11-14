@@ -2,7 +2,11 @@ import os
 import subprocess
 import youtube_dl
 from discord.ext.commands import Bot
-print('Bot Started')
+
+
+def start():
+    print('Bot Started')
+
 
 prefix = '.'
 token = ''
