@@ -12,7 +12,7 @@ setup(
     description='The Desenra Discord bot',
     entry_points={
         "console_scripts": [
-            "desenra = desenra.DSB:main",
+            "desenra = desenra.DSB:DSB",
         ]
 }
 )
